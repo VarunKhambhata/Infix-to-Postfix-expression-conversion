@@ -1,2 +1,5 @@
 # Infix-to-Postfix-expression-conversion
-Convert ifix expression to postfix expression.
+Convert infix expression to postfix expression.
+
+Start the application and enter an infix expression. 
+Avaliable operators:(+,-,*,/,^,$,%)
